@@ -3,7 +3,7 @@
 <div align="center">
 
 ## **Sneha Sawant**
-### Full-Stack Developer | Problem Solver | Tech Enthusiast
+### 🤖 AI Developer | Machine Learning Enthusiast | Innovation Builder
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/sneha274)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com)
@@ -15,37 +15,40 @@
 
 ## 🌟 About Me
 
-I'm a passionate and dedicated developer with a keen eye for clean code, scalable architecture, and innovative solutions. I thrive on transforming complex problems into elegant, user-centric applications. With a commitment to continuous learning and excellence, I strive to create meaningful impact through technology.
+I'm a passionate AI/Machine Learning developer specializing in building intelligent systems and innovative AI solutions. I excel at leveraging cutting-edge algorithms, deep learning, and data science to solve complex real-world problems. With a commitment to continuous learning and pushing the boundaries of AI, I strive to create transformative solutions that make a meaningful impact.
 
 ---
 
 ## 🚀 What I Do
 
-- 💻 **Full-Stack Development** – Building robust applications from frontend to backend
-- 🎨 **UI/UX Implementation** – Creating intuitive and beautiful user interfaces
-- 🔧 **Problem Solving** – Tackling challenging technical obstacles with creative approaches
-- 📊 **Database Design** – Architecting efficient and scalable data solutions
-- 🤝 **Collaboration** – Working seamlessly with teams to deliver exceptional results
+- 🧠 **Machine Learning & AI** – Building intelligent models and neural networks
+- 📊 **Data Science & Analytics** – Extracting insights from complex datasets
+- 🤖 **Deep Learning** – Developing advanced AI solutions using modern architectures
+- 🔬 **Model Optimization** – Fine-tuning algorithms for performance and accuracy
+- 💡 **AI Integration** – Implementing AI solutions into production systems
+- 🤝 **Research & Innovation** – Exploring emerging technologies and methodologies
 
 ---
 
 ## 🛠️ Technical Expertise
 
 **Languages:**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-**Frontend:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**AI/ML Frameworks & Libraries:**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Backend & Tools:**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**Tools & Technologies:**
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
