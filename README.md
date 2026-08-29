@@ -81,8 +81,8 @@ I'm passionate about building projects that solve real-world problems and contri
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
-- 📧 **Email:** [your.email@example.com]
-- 💼 **LinkedIn:** [Your LinkedIn Profile]
+- 📧 **Email:** [snehasawant879@gmail.com]
+- 💼 **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/sneha-sawant-ss)]
 - 🐙 **GitHub:** [github.com/sneha274](https://github.com/sneha274)
 
 ---
